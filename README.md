@@ -24,7 +24,6 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
-
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
